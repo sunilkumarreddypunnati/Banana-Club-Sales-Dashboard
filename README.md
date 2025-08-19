@@ -79,13 +79,6 @@ Passionate about building beginner-friendly resources and visual dashboards.
 📬 [LinkedIn Profile](https://www.linkedin.com/in/sunilkumarreddypunnati)  
 📁 [More Projects on GitHub](https://github.com/sunilkumarreddypunnati)
 
----
-## 📂 Featured Projects
 
-### [📊 Banana Club Sales Dashboard](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard)
-Automated KPI reporting using Excel & Power BI  
-✅ Cleaned 8,500+ transactions  
-📈 Delivered insights on top-selling items and seasonal trends  
-📸 ![Dashboard Preview](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard/blob/main/dashboard.png)
 
 
